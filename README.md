@@ -6,7 +6,7 @@
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
 
-- 💡 My main programming languages are [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**React**](https://reactjs.org), [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS), and [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML).
+- 💡 My main programming languages are [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - 🎓 I'm constantly improving my skills and learning new technologies.
 - 😄 Pronouns: `He/Him`
 
