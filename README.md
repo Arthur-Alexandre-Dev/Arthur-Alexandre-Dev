@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻</h1>
+<h1 align="center">👨🏻‍💻</h1>
 <br>
 <p align="center">Hello, I'm Arthur! •‿•</p>
 <p align="center">Currently, I am a <b><i>Software Development Student</i></b>, passionate about learning and building web applications with modern technologies.</p>
