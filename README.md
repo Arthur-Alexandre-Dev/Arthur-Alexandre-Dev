@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻</h1>
 <br>
-<p align="center">Hello, I'm Arthur Alexandre Brandão! ✨</p>
-<p align="center">Currently, I work as a <b><i>Software Developer</i></b>, and I'm passionate about building web applications with modern technologies.</p>
+<p align="center">Hello, I'm Arthur! •‿•</p>
+<p align="center">Currently, I am a <b><i>Software Development Student</i></b>, passionate about learning and building web applications with modern technologies.</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
