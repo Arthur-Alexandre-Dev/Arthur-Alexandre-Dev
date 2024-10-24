@@ -4,7 +4,7 @@
 <p align="center">Currently, I am a <b><i>Software Development Student</i></b>, passionate about learning and building web applications with modern technologies.</p>
 <br>
 <br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcyberpunk-gif-cyberpunk-discover-share-gifs--416231190575099222%2F&psig=AOvVaw3JTGEImG9vncLxSAzDoDKI&ust=1729823596712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD6r5n9pYkDFQAAAAAdAAAAABBS" align="right" width="400px" />
+<img src="https://br.pinterest.com/pin/cyberpunk-gif-cyberpunk-discover-share-gifs--416231190575099222/" align="right" width="400px" />
 
 - 💡 My main programming languages are [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**React**](https://reactjs.org), [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS), and [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML).
 - 🎓 I'm constantly improving my skills and learning new technologies.
