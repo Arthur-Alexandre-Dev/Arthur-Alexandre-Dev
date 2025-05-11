@@ -8,7 +8,6 @@
 
 - 💡 My main programming languages are [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - 🎓 I'm constantly improving my skills and learning new technologies.
-- 😄 Pronouns: `He/Him`
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-alexandre-9118a1291/)
