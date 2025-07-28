@@ -1,18 +1,18 @@
 <h1 align="center">👨🏻‍💻</h1>
 <br>
-<p align="center">Hello, I'm Arthur! •‿•</p>
-<p align="center">Currently, I am a <b><i>Software Development Student</i></b>, passionate about learning and building web applications with modern technologies.</p>
+<p align="center">Olá, Meu nome é Arthur! •‿•</p>
+<p align="center">Atualmente sou um <b><i>Analista de Dados</i></b>apaixonado por Desenvolvimento.</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
 
-- 💡 My main programming languages are [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-- 🎓 I'm constantly improving my skills and learning new technologies.
+- 💡 Minha linguagem principal é [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+- 🎓 Sou estudante da UFPR no curso de ADS, constatemente estou estudando e melhorando minhas habilidades na programação.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-alexandre-9118a1291/)
 
-<h3>Languages and Tools:</h3>
+<h3>Linguagens e Ferramentas:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
