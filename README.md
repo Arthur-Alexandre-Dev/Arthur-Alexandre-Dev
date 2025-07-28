@@ -16,6 +16,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-alexandre-9118a1291/)
 - ✉️ **arthuralexandres.ti@gmail.com**
 
+---
+
 <h3>Linguagens e Ferramentas:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
