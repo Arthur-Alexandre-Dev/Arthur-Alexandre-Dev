@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻</h1>
 <br>
 <p align="center">Olá, Meu nome é Arthur! •‿•</p>
-<p align="center">Atualmente sou um <b><i>Analista de Dados</i></b>apaixonado por Desenvolvimento.</p>
+<p align="center">Atualmente sou um <b><i>Analista de Dados</i></b> apaixonado por Desenvolvimento Web.</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
@@ -26,7 +26,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
