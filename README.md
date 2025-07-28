@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻</h1>
 <br>
 <p align="center">Olá, Meu nome é Arthur! •‿•</p>
-<p align="center">Atualmente sou um <b><i>Analista de Dados</i></b> apaixonado por Desenvolvimento Web.</p>
+<p align="center">Atualmente, sou <b><i>Analista de Dados</i></b> apaixonado por Desenvolvimento Web.</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
