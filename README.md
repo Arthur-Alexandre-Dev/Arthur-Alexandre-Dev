@@ -22,6 +22,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+    <imag src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
