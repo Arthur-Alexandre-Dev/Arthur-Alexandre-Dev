@@ -5,7 +5,7 @@
 <br><br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
 
-- 💡 Minha linguagem principal é [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) e [**Python**](https://www.python.org/).
+- 💡 Minha linguagem principal é [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [**TypeScript**](https://www.typescriptlang.org/docs/) e [**Python**](https://www.python.org/).
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UFPR**.
 - 📚 Estou sempre em busca de aprender mais e evoluir minhas habilidades com projetos práticos e estudos contínuos.
 - 🌐 Tenho interesse em **Desenvolvimento Web**, **Análise de Dados** e **Engenharia de Dados**.
